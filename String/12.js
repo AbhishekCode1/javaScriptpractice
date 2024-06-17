@@ -1,3 +1,4 @@
+// compare two string
 const string1 = "Abhishek";
 const string2 ="Abhishek";
 

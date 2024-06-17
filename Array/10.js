@@ -14,3 +14,4 @@ console.log(uniqueValues1); // Output: [1, 2, 3, 4, 5]
 let array2 = ['apple', 'banana', 'orange', 'banana', 'kiwi'];
 let uniqueValues2 = getUniqueValues(array2);
 console.log(uniqueValues2); // Output: ['apple', 'banana', 'orange', 'kiwi']
+// example number 7 is same

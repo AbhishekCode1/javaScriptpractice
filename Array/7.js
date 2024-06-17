@@ -1,6 +1,6 @@
 // remove duplicate element from array
 
-let arr = [1, 2, 2, 3, 4, 4, 5];
+let arr = [1, 2, 6, 2, 5, 4, 5];
 
 let uniqueArr = arr.filter((value, index, self) => {
     return self.indexOf(value) === index;

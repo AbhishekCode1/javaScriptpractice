@@ -3,7 +3,7 @@ arr.reverse();
 
 console.log(arr); 
 
-
+//2 by using for loop
 let arr1 = [1, 2, 3, 4, 5];
 let reversedArr = [];
 

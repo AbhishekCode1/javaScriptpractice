@@ -1,7 +1,7 @@
 let array = [1, 2, 3, 4, 5];
 
 // Removing the first element
-array.shift(2);
+array.shift(2); // 2 se sari value chahiye
 
 console.log(array); // Output: [2, 3, 4, 5]
 
